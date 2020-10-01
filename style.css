@@ -1,0 +1,48 @@
+
+
+nav div a {
+
+    color: white;
+
+}
+
+
+main {
+
+    width: 100%;
+    height: 50vh;
+    background-color: lightgrey;
+}
+
+#slider4 {
+
+    position: absolute;
+    left: 30%;
+    
+}
+
+h3, p {
+
+    color: red;
+    font-weight: 900;
+}
+
+section {
+
+    width: 100%;
+    height: 100vh;
+    margin-top: 20px;
+}
+
+.card-img-top  {
+
+border-radius: 50%;
+width: 100%;
+background-image:;
+}
+
+.card {
+
+    border-radius: none;
+    border: 4px solid rgb(211, 130, 130);
+}
