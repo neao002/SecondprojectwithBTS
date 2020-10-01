@@ -47,9 +47,17 @@ background-image:;
     border: 4px solid rgb(211, 130, 130);
 }
 
+.box-padding-md {
 
-.jumbotrom {
+    width: 100%;
+    background: lightgreen;
 
-    width: 50%;
-    height: 50px;
+
+}
+
+
+footer {
+
+    width: 100%;
+    height: 130px;
 }
